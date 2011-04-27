@@ -7,7 +7,7 @@
 }
 b {
     font-size: 12px;
-}</pre></td></tr><tr><td><pre>a{font-family:Aria,sans-serif}a,b{font-size:12px}</pre></td></tr></table>
+}</pre></td><td><pre>a{font-family:Aria,sans-serif}a,b{font-size:12px}</pre></td></tr></table>
 
 ## [npm](http://npmjs.org/)
 
