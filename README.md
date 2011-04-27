@@ -2,12 +2,12 @@
 
 <table><tr><td>Before</td><td>After</td></tr>
 <tr><td><pre>a {
-    font-family: Aria, sans-serif;
-    font-size: 12px;
+    color: #FF0000;
 }
 b {
-    font-size: 12px;
-}</pre></td><td><pre>a{font-family:Aria,sans-serif}a,b{font-size:12px}</pre></td></tr></table>
+    color: #FF0000;
+    font-weight: bold;
+}</pre></td><td><pre>a,b{color:red}b{font-weight:700}</pre></td></tr></table>
 
 ## [npm](http://npmjs.org/)
 
